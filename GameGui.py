@@ -61,4 +61,4 @@ attempts_label = tk.Label(window, text=f"Attempts left: {attempts}", font=("Aria
 attempts_label.pack(pady=10)
 
 # Run the application
-window.mainloop()
+window.mainloop() 
