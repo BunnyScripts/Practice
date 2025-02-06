@@ -53,4 +53,4 @@ label_output.pack(pady=10)
 
 
 # Start the GUI
-window.mainloop()
+window.mainloop() 
